@@ -22,3 +22,7 @@ The *inverse* of *p -> q* is the Proposition *﹁ p -> ﹁ q*
 
 *equivalent*  
 two compound Proposition always have the same truth value we call them *equivalent*  
+
+*biconditional statement*  
+The *biconditional statement* *p <-> q* is the Proposition "*p if and only if q*"  
+The *biconditional statement* is true when *p* and *q* have the same value, and is false otherwise.
