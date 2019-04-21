@@ -8,4 +8,17 @@ also called *implication*
 see above
 
 *conclusion*  
-see above
+see above  
+
+*converse*  
+The Proposition *q -> p* is called *converse* of *p -> q*.
+
+*contrapositive*  
+The *contrapositive* of *p -> q* is the Proposition *﹁ q -> ﹁ p*  
+always the *contrapositive* has the same true value of *p -> q*
+
+*inverse*  
+The *inverse* of *p -> q* is the Proposition *﹁ p -> ﹁ q*  
+
+*equivalent*  
+two compound Proposition always have the same truth value we call them *equivalent*  
